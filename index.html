@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Painel de Vendas · Mercado Livre</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#EEF0F2;
+    --surface:#FFFFFF;
+    --text:#1D2430;
+    --text-muted:#5B6572;
+    --border:#D8DCE1;
+    --primary:#2B4C7E;
+    --primary-soft:#E6ECF4;
+    --accent:#C08A22;
+    --accent-soft:#F6ECD8;
+    --positive:#2F7D5A;
+    --positive-soft:#E4F2EC;
+    --negative:#B4432F;
+    --negative-soft:#F8E9E5;
+    --radius:6px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Source Sans 3', system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3,.label{font-family:'Space Grotesk', system-ui, sans-serif;}
+  .num{font-variant-numeric: tabular-nums;}
+
+  header{
+    padding:28px 32px 20px;
+    border-bottom:1px solid var(--border);
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  header h1{margin:0; font-size:1.5rem; font-weight:700; letter-spacing:-0.01em;}
+  header p{margin:4px 0 0; color:var(--text-muted); font-size:0.92rem;}
+  #atualizado{color:var(--text-muted); font-size:0.85rem;}
+
+  main{max-width:1080px; margin:0 auto; padding:28px 32px 64px;}
+
+  .empty-state{
+    background:var(--surface);
+    border:1px dashed var(--border);
+    border-radius:var(--radius);
+    padding:32px;
+    text-align:left;
+    color:var(--text-muted);
+    margin-bottom:28px;
+  }
+  .empty-state h2{margin:0 0 8px; color:var(--text); font-size:1.1rem;}
+  .empty-state code{background:var(--bg); padding:2px 6px; border-radius:4px; font-size:0.85em;}
+
+  .kpi-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));
+    gap:16px;
+    margin-bottom:28px;
+  }
+  .kpi-card{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:18px 20px;
+  }
+  .kpi-card .label{font-size:0.8rem; color:var(--text-muted); font-weight:500;}
+  .kpi-card .value{font-size:1.7rem; font-weight:700; margin-top:6px;}
+  .kpi-card .delta{font-size:0.82rem; margin-top:4px;}
+  .delta.up{color:var(--positive);}
+  .delta.down{color:var(--negative);}
+
+  section{margin-bottom:32px;}
+  section h2{font-size:1.05rem; margin:0 0 14px; font-weight:600;}
+
+  .panel{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:20px;
+  }
+
+  table{width:100%; border-collapse:collapse; font-size:0.9rem;}
+  th,td{text-align:left; padding:10px 12px; border-bottom:1px solid var(--border);}
+  th{color:var(--text-muted); font-weight:600; font-size:0.78rem; text-transform:none;}
+  tr:last-child td{border-bottom:none;}
+  td.num, th.num{text-align:right;}
+
+  .badge{
+    display:inline-block;
+    padding:2px 9px;
+    border-radius:999px;
+    font-size:0.76rem;
+    font-weight:600;
+  }
+  .badge.classe-A{background:var(--accent-soft); color:var(--accent);}
+  .badge.classe-B{background:var(--primary-soft); color:var(--primary);}
+  .badge.classe-C{background:var(--bg); color:var(--text-muted);}
+  .badge.full-sim{background:var(--positive-soft); color:var(--positive);}
+  .badge.full-nao{background:var(--bg); color:var(--text-muted);}
+
+  .muted-note{color:var(--text-muted); font-size:0.85rem; margin-top:10px;}
+  canvas{max-height:280px;}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Painel de Vendas — Mercado Livre</h1>
+    <p>Rolamentos · faturamento, itens e saúde da operação</p>
+  </div>
+  <div id="atualizado"></div>
+</header>
+
+<main>
+
+  <div id="empty-state" class="empty-state" style="display:none;">
+    <h2>Aguardando dados</h2>
+    <p>Este painel lê o arquivo <code>data.json</code> no mesmo repositório. Assim que os relatórios de Vendas e Faturamento do Mercado Livre forem processados, os números aparecem aqui automaticamente — nenhuma alteração de código é necessária.</p>
+  </div>
+
+  <div id="conteudo" style="display:none;">
+
+    <div class="kpi-grid" id="kpi-grid"></div>
+
+    <section>
+      <h2>Comparativo mês a mês</h2>
+      <div class="panel"><canvas id="chart-faturamento"></canvas></div>
+    </section>
+
+    <section>
+      <h2>Saúde da operação</h2>
+      <div class="panel"><canvas id="chart-saude"></canvas></div>
+    </section>
+
+    <section>
+      <h2>Itens mais vendidos &amp; sugestão de envio ao FULL</h2>
+      <div class="panel">
+        <table>
+          <thead>
+            <tr>
+              <th>SKU</th>
+              <th>Produto</th>
+              <th class="num">Qtd. vendida</th>
+              <th class="num">Faturamento</th>
+              <th class="num">% acumulado</th>
+              <th>Classe</th>
+              <th>Enviar ao FULL?</th>
+              <th class="num">Margem líquida</th>
+            </tr>
+          </thead>
+          <tbody id="tabela-itens"></tbody>
+        </table>
+        <p class="muted-note">Classificação ABC (regra 80/20) calculada automaticamente pelo faturamento acumulado dos itens. Classe A = itens que somam até 80% do faturamento; sugestão de FULL segue esse recorte, com margem de segurança de 20–30% sobre a média mensal para decidir a quantidade a enviar.</p>
+        <p class="muted-note" id="nota-margem">Margem líquida: aparece aqui quando os custos por SKU forem cadastrados (planejado via Supabase). Por enquanto mostra "—".</p>
+      </div>
+    </section>
+
+  </div>
+
+</main>
+
+<script>
+const fmtMoeda = v => v.toLocaleString('pt-BR', {style:'currency', currency:'BRL'});
+const fmtPct = v => v.toLocaleString('pt-BR', {minimumFractionDigits:1, maximumFractionDigits:1}) + '%';
+
+async function carregar(){
+  let dados;
+  try{
+    const resp = await fetch('./data.json', {cache:'no-store'});
+    dados = await resp.json();
+  }catch(e){
+    dados = {meses:[], itens:[]};
+  }
+
+  document.getElementById('atualizado').textContent = dados.atualizado_em
+    ? 'Atualizado em ' + dados.atualizado_em
+    : '';
+
+  if(!dados.meses || dados.meses.length === 0){
+    document.getElementById('empty-state').style.display = 'block';
+    document.getElementById('conteudo').style.display = 'none';
+    return;
+  }
+
+  document.getElementById('empty-state').style.display = 'none';
+  document.getElementById('conteudo').style.display = 'block';
+
+  const meses = [...dados.meses].sort((a,b)=> a.mes.localeCompare(b.mes));
+  const atual = meses[meses.length - 1];
+  const anterior = meses.length > 1 ? meses[meses.length - 2] : null;
+
+  const ticketMedio = atual.pedidos ? atual.faturamento / atual.pedidos : 0;
+  const taxaCancel = atual.pedidos ? (atual.cancelamentos / atual.pedidos) * 100 : 0;
+  const taxaDevol = atual.pedidos ? (atual.devolucoes / atual.pedidos) * 100 : 0;
+
+  function delta(campoAtual, campoAnterior){
+    if(!anterior || !anterior[campoAnterior]) return null;
+    const variacao = ((campoAtual - anterior[campoAnterior]) / anterior[campoAnterior]) * 100;
+    return variacao;
+  }
+
+  function kpiCard(label, value, deltaValor, deltaInverso){
+    let deltaHtml = '';
+    if(deltaValor !== null && isFinite(deltaValor)){
+      const bom = deltaInverso ? deltaValor <= 0 : deltaValor >= 0;
+      deltaHtml = `<div class="delta ${bom ? 'up':'down'}">${deltaValor >= 0 ? '+' : ''}${fmtPct(deltaValor)} vs. mês anterior</div>`;
+    }
+    return `<div class="kpi-card"><div class="label">${label}</div><div class="value num">${value}</div>${deltaHtml}</div>`;
+  }
+
+  document.getElementById('kpi-grid').innerHTML =
+    kpiCard('Faturamento do mês', fmtMoeda(atual.faturamento), delta(atual.faturamento, 'faturamento'), false) +
+    kpiCard('Pedidos', atual.pedidos.toLocaleString('pt-BR'), delta(atual.pedidos, 'pedidos'), false) +
+    kpiCard('Ticket médio', fmtMoeda(ticketMedio), null, false) +
+    kpiCard('Cancelamento + devolução', fmtPct(taxaCancel + taxaDevol), delta(taxaCancel + taxaDevol, null), true);
+
+  new Chart(document.getElementById('chart-faturamento'), {
+    type:'line',
+    data:{
+      labels: meses.map(m => m.mes),
+      datasets:[{
+        label:'Faturamento',
+        data: meses.map(m => m.faturamento),
+        borderColor:'#2B4C7E',
+        backgroundColor:'rgba(43,76,126,0.08)',
+        fill:true,
+        tension:0.25,
+        pointRadius:3
+      }]
+    },
+    options:{plugins:{legend:{display:false}}, scales:{y:{ticks:{callback:v=>fmtMoeda(v)}}}}
+  });
+
+  new Chart(document.getElementById('chart-saude'), {
+    type:'bar',
+    data:{
+      labels: meses.map(m => m.mes),
+      datasets:[
+        {
+          label:'Cancelamento (%)',
+          data: meses.map(m => m.pedidos ? (m.cancelamentos/m.pedidos)*100 : 0),
+          backgroundColor:'#C08A22'
+        },
+        {
+          label:'Devolução (%)',
+          data: meses.map(m => m.pedidos ? (m.devolucoes/m.pedidos)*100 : 0),
+          backgroundColor:'#B4432F'
+        }
+      ]
+    },
+    options:{scales:{y:{ticks:{callback:v=>v+'%'}}}}
+  });
+
+  // Curva ABC (80/20) + sugestão de FULL, calculada a partir do faturamento dos itens
+  const itens = [...(dados.itens || [])].sort((a,b)=> b.faturamento - a.faturamento);
+  const totalFaturamento = itens.reduce((s,i)=> s + i.faturamento, 0);
+  let acumulado = 0;
+
+  const linhas = itens.map(item => {
+    acumulado += item.faturamento;
+    const pctAcumulado = totalFaturamento ? (acumulado/totalFaturamento)*100 : 0;
+    let classe = 'C';
+    if(pctAcumulado <= 80) classe = 'A';
+    else if(pctAcumulado <= 95) classe = 'B';
+
+    const sugereFull = classe === 'A';
+    const margem = (item.custo_unitario !== undefined && item.custo_unitario !== null)
+      ? fmtMoeda((item.faturamento/item.quantidade_vendida) - item.custo_unitario) + ' /un.'
+      : '—';
+
+    return `<tr>
+      <td>${item.sku}</td>
+      <td>${item.nome}</td>
+      <td class="num">${item.quantidade_vendida.toLocaleString('pt-BR')}</td>
+      <td class="num">${fmtMoeda(item.faturamento)}</td>
+      <td class="num">${fmtPct(pctAcumulado)}</td>
+      <td><span class="badge classe-${classe}">${classe}</span></td>
+      <td><span class="badge ${sugereFull ? 'full-sim':'full-nao'}">${sugereFull ? 'Sim':'Não'}</span></td>
+      <td class="num">${margem}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('tabela-itens').innerHTML = linhas;
+}
+
+carregar();
+</script>
+</body>
+</html>
