@@ -1,0 +1,2544 @@
+{
+  "atualizado_em": "2026-09-16",
+  "meses": [
+    {
+      "mes": "2026-07",
+      "faturamento": 54358.24,
+      "pedidos": 814,
+      "cancelamentos": 20,
+      "devolucoes": 6,
+      "parcial": true
+    },
+    {
+      "mes": "2026-08",
+      "faturamento": 94636.1,
+      "pedidos": 1414,
+      "cancelamentos": 30,
+      "devolucoes": 9,
+      "parcial": false
+    },
+    {
+      "mes": "2026-09",
+      "faturamento": 60640.48,
+      "pedidos": 768,
+      "cancelamentos": 22,
+      "devolucoes": 0,
+      "parcial": true
+    }
+  ],
+  "itens": [
+    {
+      "sku": "UCP204-2",
+      "nome": "Ucp204  Kit Com 2 Mancal Com Rolamento Para Eixos De 20mm",
+      "quantidade_vendida": 149,
+      "faturamento": 8853.79,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6000 2rs catalog",
+      "nome": "Rolamento 6000-2rs 10x26x8 - Kit Com 10pcs",
+      "quantidade_vendida": 293,
+      "faturamento": 7749.85,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6206 2RS GBR",
+      "nome": "10 Peças Rolamento 6206 2rs Marca Gbr 30x62x16 Preto",
+      "quantidade_vendida": 82,
+      "faturamento": 6911.75,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6302 2RS GBR",
+      "nome": "Kit 10 Peças Rolamento 6302 2rs Marca Gbr 15x42x13 Preto",
+      "quantidade_vendida": 136,
+      "faturamento": 6700.52,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6303 2RS NSK",
+      "nome": "Kit Com 10 Pçs Rolamento 6303 2rs Marca Nsk 17x47x14",
+      "quantidade_vendida": 28,
+      "faturamento": 6648.66,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6003 2RS GBR",
+      "nome": "Kit Com 10 Pçs Rolamento 6003 2rs Marca Gbr 17x35x10 Preto",
+      "quantidade_vendida": 171,
+      "faturamento": 5821.73,
+      "custo_unitario": null
+    },
+    {
+      "sku": "99015",
+      "nome": "Rolamento Rolete Tubular 1 Pol - Carrinho De Mão Carriola Prateado",
+      "quantidade_vendida": 214,
+      "faturamento": 5745.96,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Graxa Fag 500g",
+      "nome": "Graxa Azul Fag Multiuso Especial P/ Rolamentos - 500g",
+      "quantidade_vendida": 102,
+      "faturamento": 5700.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 2RS GBR",
+      "nome": "10 Peças Rolamento 6204 2rs Marca Gbr 20x47x14 Preto",
+      "quantidade_vendida": 85,
+      "faturamento": 4859.32,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6300 2RS GBR",
+      "nome": "Kit Com 10 Pçs Rolamento 6300 2rs Marca Gbr 10x35x11 Preto",
+      "quantidade_vendida": 127,
+      "faturamento": 4651.29,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6202 2RS NSK",
+      "nome": "Kit Com 10 Pçs Rolamento 6202 2rs Marca Nsk 15x35x11 Preto",
+      "quantidade_vendida": 47,
+      "faturamento": 4457.86,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6000 2RS NSK",
+      "nome": "Kit Com 10 Pçs Rolamento 6000 2rs Marca Nsk 10x26x8 Preto",
+      "quantidade_vendida": 22,
+      "faturamento": 3709.49,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6207 2RS NSK",
+      "nome": "Rolamento 6207 2rs Marca Nsk 35x72x17",
+      "quantidade_vendida": 79,
+      "faturamento": 3663.63,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6208 2RS GBR",
+      "nome": "10 Peças Rolamento 6208 2rs Marca Gbr 40x80x18 Preto",
+      "quantidade_vendida": 17,
+      "faturamento": 3101.79,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 12 A",
+      "nome": "4 Pçs Terminal Rotular Macho Pos 12 A Rosca Direita M12x1,75",
+      "quantidade_vendida": 25,
+      "faturamento": 2958.05,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6004 ZZ GBR",
+      "nome": "10 Peças Rolamento 6004 Zz Marca Gbr 20x42x12 Preto",
+      "quantidade_vendida": 72,
+      "faturamento": 2916.64,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6008 2RS",
+      "nome": "Kit Com 4 Rolamentos Blindados Para Carrinhos De Rolimã",
+      "quantidade_vendida": 50,
+      "faturamento": 2605.25,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 2RS GBR catalog",
+      "nome": "Kit 10 Rolamento 6001 2rs 12x28x8 Industrial Motores Ventiladores Cinza",
+      "quantidade_vendida": 95,
+      "faturamento": 2540.35,
+      "custo_unitario": null
+    },
+    {
+      "sku": "R8 2RS",
+      "nome": "Kit Com 10 Pçs Rolamento R8 2rs 12,7 X 28,57 X 7,94",
+      "quantidade_vendida": 34,
+      "faturamento": 2222.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "693 ZZ",
+      "nome": "Kit 10 Micro Rolamento 693zz 3x8x4mm Aço Carbono 0",
+      "quantidade_vendida": 38,
+      "faturamento": 2193.26,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 18 A",
+      "nome": "Terminal Rotular Macho Pos 18 A Rosca Direita - M18x1,5",
+      "quantidade_vendida": 33,
+      "faturamento": 2176.73,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KR 35 PP",
+      "nome": "Kr 35 Pp - Rolamento Rolo De Leva - M16x1.5",
+      "quantidade_vendida": 59,
+      "faturamento": 2078.73,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 2RS catalog",
+      "nome": "Rolamento Esferas Gbr 6203 2rs 17x40x12mm Kit 10 Unidades",
+      "quantidade_vendida": 58,
+      "faturamento": 2060.25,
+      "custo_unitario": null
+    },
+    {
+      "sku": "688 ZZ",
+      "nome": "Micro Rolamento 688 Zz 8x16x5 Kit 10 Peças",
+      "quantidade_vendida": 63,
+      "faturamento": 2005.21,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KR 26 PP",
+      "nome": "2 Unidades Kr 26 Pp - Rolamento Rolo De Leva M10x1",
+      "quantidade_vendida": 36,
+      "faturamento": 1937.08,
+      "custo_unitario": null
+    },
+    {
+      "sku": "2 - POS 14 A",
+      "nome": "2 Un Terminal Rotular Macho Pos 14 A Rosca Direita - M14x2",
+      "quantidade_vendida": 27,
+      "faturamento": 1826.37,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6302 ZZ GBR",
+      "nome": "Kit 10 Peças Rolamento 6302 Zz Marca Gbr 15x42x13 Prateado",
+      "quantidade_vendida": 34,
+      "faturamento": 1791.83,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 2RS NSK",
+      "nome": "Rolamento 6204 2rs Marca Nsk 20x47x14",
+      "quantidade_vendida": 61,
+      "faturamento": 1775.67,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Graxa Fag 20 Kg",
+      "nome": "Graxa Azul Fag Para Rolamentos E Multiuso 20 Kg",
+      "quantidade_vendida": 1,
+      "faturamento": 1759.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "629 2RS C3 HCH",
+      "nome": "Kit 10 Rolamentos Hch 629 2rs C3 Aço Prateado Vedação 2rs Alta Rotação",
+      "quantidade_vendida": 26,
+      "faturamento": 1747.62,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6300 ZZ GBR",
+      "nome": "Kit Com 10 Pçs Rolamento 6300 Zz Marca Gbr 10x35x11 Prateado",
+      "quantidade_vendida": 47,
+      "faturamento": 1629.99,
+      "custo_unitario": null
+    },
+    {
+      "sku": "10 Rolamento 607 2rs Medidas 7x19x6mm",
+      "nome": "10 Rolamento 607 2rs Medidas 7x19x6mm",
+      "quantidade_vendida": 50,
+      "faturamento": 1598.36,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6206 2RS",
+      "nome": "Kit Com 4 Rolamentos 6206 Blindados Para Carrinhos De Rolimã Branco",
+      "quantidade_vendida": 32,
+      "faturamento": 1548.62,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6205 2RS",
+      "nome": "Kit Com 4 Rolamentos Blindados Para Carrinhos De Rolimã",
+      "quantidade_vendida": 46,
+      "faturamento": 1534.41,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6201 2RS GBR catalog",
+      "nome": "Rolamento 6201 2rs - Kit 10 Peças 12x32x10 Preto",
+      "quantidade_vendida": 53,
+      "faturamento": 1506.75,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 12A - KIT 10",
+      "nome": "Imp Terminal Rotular Macho Pos 12a M12x1,75 Rosca Kit 10 Pçs 127/220v",
+      "quantidade_vendida": 7,
+      "faturamento": 1484.84,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6002 2RS NSK",
+      "nome": "Kit Com 10 Pçs Rolamento 6002 2rs Marca Nsk 15x32x9 Preto",
+      "quantidade_vendida": 8,
+      "faturamento": 1390.84,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6005 2RS",
+      "nome": "Kit 10 Rolamentos 6005 2rs Medidas 25x47x12mm",
+      "quantidade_vendida": 30,
+      "faturamento": 1262.26,
+      "custo_unitario": null
+    },
+    {
+      "sku": "NK 1512",
+      "nome": "Rolamento Agulha Cambio Nk152312 Kansas 150 Speed 150",
+      "quantidade_vendida": 37,
+      "faturamento": 1182.08,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 12 L",
+      "nome": "Terminal Rotular Macho Pos 12 L Rosca Esquerda - M12x1,75",
+      "quantidade_vendida": 44,
+      "faturamento": 1117.16,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6301 2RS",
+      "nome": "10 Rolamentos 6301 2rs Roda Dianteira Cg Titan 125/150/160",
+      "quantidade_vendida": 29,
+      "faturamento": 1092.61,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6006 2RS NSK",
+      "nome": "Kit C/ 2 Rolamentos Nsk Lavadora Brastemp Consul 6006 2rs",
+      "quantidade_vendida": 20,
+      "faturamento": 1087.12,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6202 ZZ C3 GBR",
+      "nome": "Kit 10 Rolamentos Rígidos Esfera Gbr 6202 Zz C3 15x35x11mm Aço",
+      "quantidade_vendida": 36,
+      "faturamento": 1069.62,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6004 2RS",
+      "nome": "Kit Rolamento 6004 2rs Kit 10 Peças 20x42x12",
+      "quantidade_vendida": 21,
+      "faturamento": 1035.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KR 80 PP",
+      "nome": "Kr 80 Pp - Rolamento Tipo Rolo De Leva - Rosca Pino M30x1.5",
+      "quantidade_vendida": 3,
+      "faturamento": 1033.41,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Terminal Rotular Femea Rosca Direita Phs 30 A - M30x2",
+      "nome": "Terminal Rotular Femea Rosca Direita Phs 30 A - M30x2",
+      "quantidade_vendida": 4,
+      "faturamento": 1031.36,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esferas 8mm",
+      "nome": "Esfera Aço 100 Unidades 8mm Estilingue Atiradeira Bolinha Prata",
+      "quantidade_vendida": 35,
+      "faturamento": 1019.24,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6005 2RS NSK",
+      "nome": "Rolamento 6005 2rs Marca Nsk 25x47x12",
+      "quantidade_vendida": 34,
+      "faturamento": 1010.76,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LM 40 UU",
+      "nome": "Rolamento Linear Lm 40 Uu - 40x60x80 - Kit Com 2 Peças",
+      "quantidade_vendida": 6,
+      "faturamento": 1003.02,
+      "custo_unitario": null
+    },
+    {
+      "sku": "ROLDANA",
+      "nome": "Kit 20 Peças Roldana 30mm Com Rolamento 608 Zz",
+      "quantidade_vendida": 29,
+      "faturamento": 991.51,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6206 ZZ GBR",
+      "nome": "10 Peças Rolamento 6206 Zz Marca Gbr 30x62x16 Prateado",
+      "quantidade_vendida": 12,
+      "faturamento": 985.14,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6201 2RS Furo 1/2",
+      "nome": "Kit 10 Peças Rolamento 6201 2rs Vedado 12,7x32x10 Eixo 1/2 ( Skate/patins/cubo/industrial) Azul-aço",
+      "quantidade_vendida": 31,
+      "faturamento": 973.27,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Peças Rolamento 6201 2rs C3 12,7x32x10 Eixo 1/2 Preto",
+      "nome": "Kit 10 Peças Rolamento 6201 2rs C3 12,7x32x10 Eixo 1/2 Preto",
+      "quantidade_vendida": 30,
+      "faturamento": 972.1,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 22309 - Medidas 45x100x36mm Autocompensador De Rolos",
+      "nome": "Rolamento 22309 - Medidas 45x100x36mm Autocompensador De Rolos",
+      "quantidade_vendida": 7,
+      "faturamento": 968.23,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6002 zz GBR catalog",
+      "nome": "Kit 10 Peças Rolamento 6002 Zz Gbr Medida 15x32x9mm Prateado",
+      "quantidade_vendida": 34,
+      "faturamento": 952.18,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608ZZ",
+      "nome": "Kit 10 Peças Rolamento 608 Zz Medida 8x22x7",
+      "quantidade_vendida": 57,
+      "faturamento": 927.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6905 2RS",
+      "nome": "Kit 12 Pçs 6905 2rs Rolamento De Esferas Blindado 25x42x9 Azul-aço",
+      "quantidade_vendida": 12,
+      "faturamento": 917.62,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 20 Rolamentos 6205 2rs - 25x52x15 Preto",
+      "nome": "Kit 20 Rolamentos 6205 2rs - 25x52x15 Preto",
+      "quantidade_vendida": 6,
+      "faturamento": 894.67,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esferas 20mm",
+      "nome": "Esfera Aço Carbono 20mm - Alta Qualidade 10 Peças",
+      "quantidade_vendida": 30,
+      "faturamento": 870.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6005 2RS GBR",
+      "nome": "Kit 10 Unidades Rolamento 6005 2rs Marca Gbr 25x47x12 Preto",
+      "quantidade_vendida": 15,
+      "faturamento": 869.21,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6903 2RS",
+      "nome": "Kit 10 Peças Rolamento 6903 2rs 17x30x7 P/ Roda De Bike",
+      "quantidade_vendida": 14,
+      "faturamento": 866.46,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LME 25 UU",
+      "nome": "Rolamento Linear Lme 25 Uu - 25x40x58",
+      "quantidade_vendida": 14,
+      "faturamento": 850.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6004 2RS NSK",
+      "nome": "Rolamento 6004 2rs Marca Nsk 20x42x12",
+      "quantidade_vendida": 29,
+      "faturamento": 849.63,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 2RS HCH",
+      "nome": "Kit 5 Rolamentos Hch 6204 2rs-c3 Vedação Borracha Motores Elétricos",
+      "quantidade_vendida": 12,
+      "faturamento": 821.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 2 Unidades Ge 32 Lo - Rotula Radial 32x52x32",
+      "nome": "Kit 2 Unidades Ge 32 Lo - Rotula Radial 32x52x32",
+      "quantidade_vendida": 4,
+      "faturamento": 799.48,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Graxa SKF VG 2K 500G",
+      "nome": "Graxa Automotiva De Uso Geral Vkg 2k/0.5 500 Gramas - Skf",
+      "quantidade_vendida": 21,
+      "faturamento": 761.26,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 ZZ Carbono",
+      "nome": "Rolamentos 608 Zz Abec 1 Kit Com 20 Pçs 8x22x7",
+      "quantidade_vendida": 35,
+      "faturamento": 730.35,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 0810",
+      "nome": "Rolamento De Agulha Hk 0810 - 8x12x10 Kit Com 4 Peças",
+      "quantidade_vendida": 37,
+      "faturamento": 730.15,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UC 210",
+      "nome": "Kit Com 04 Rolamentos Uc 210 Eixo 50mm",
+      "quantidade_vendida": 4,
+      "faturamento": 707.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento Rolo De Leva Kr 47 Pp Medidas 47x20x66",
+      "nome": "Rolamento Rolo De Leva Kr 47 Pp Medidas 47x20x66",
+      "quantidade_vendida": 4,
+      "faturamento": 706.68,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6202 zz c3 nsk",
+      "nome": "Kit 10 Rolamentos 6202 Nsk Zz C3 - 15x35x11(mm) Cinza",
+      "quantidade_vendida": 5,
+      "faturamento": 693.85,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 ddu nsk",
+      "nome": "Kit 10 Rolamentos Nsk 6001 Ddu C3 - Vedação Nitrílica 12x28x8 Preto",
+      "quantidade_vendida": 4,
+      "faturamento": 668.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LME 40 UU",
+      "nome": "Rolamento Linear Lme 40 Uu - 40x62x80 - Kit Com 2 Peças",
+      "quantidade_vendida": 4,
+      "faturamento": 661.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esferas 9mm",
+      "nome": "Esfera Aço Cromo 9mm - Alta Precisão Rolamento 100 Peças",
+      "quantidade_vendida": 17,
+      "faturamento": 659.37,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento Nsk 6206 Ddu C3 Medidas 30 X 62 X 16 Mm Cinza",
+      "nome": "Rolamento Nsk 6206 Ddu C3 Medidas 30 X 62 X 16 Mm Cinza",
+      "quantidade_vendida": 19,
+      "faturamento": 654.93,
+      "custo_unitario": null
+    },
+    {
+      "sku": "606 2rs",
+      "nome": "Kit 10 Rolamentos 606 2rs Medidas 6x17x6mm Azul-aço",
+      "quantidade_vendida": 23,
+      "faturamento": 652.14,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6210 2RS GBR",
+      "nome": "10 Peças Rolamento 6210 2rs Marca Gbr 50x90x20 Preto",
+      "quantidade_vendida": 3,
+      "faturamento": 650.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Graxa Fag 1 Kg",
+      "nome": "Graxa Azul 1kg Fag",
+      "quantidade_vendida": 6,
+      "faturamento": 644.4,
+      "custo_unitario": null
+    },
+    {
+      "sku": "10 Rolamentos - Rolamento 6807 Zz - 35x47x7",
+      "nome": "10 Rolamentos - Rolamento 6807 Zz - 35x47x7",
+      "quantidade_vendida": 6,
+      "faturamento": 641.23,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esfera 9mm",
+      "nome": "Esfera Aço Cromo 9mm - Alta Precisão Rolamento 50 Peças",
+      "quantidade_vendida": 23,
+      "faturamento": 634.07,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Graxa Poliureia Ultra 260 Gbr 385g",
+      "nome": "Kit 10 Graxas Poliureia Ultra 260 Multiuso Gbr - 385g",
+      "quantidade_vendida": 1,
+      "faturamento": 629.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KH 2540 PP",
+      "nome": "Kh 2540 Pp Rolamento Linear - 25x35x40",
+      "quantidade_vendida": 9,
+      "faturamento": 600.93,
+      "custo_unitario": null
+    },
+    {
+      "sku": "685 ZZ",
+      "nome": "Rolamento 685 Zz 5x11x5 Kit 10 Peças Azul-aço",
+      "quantidade_vendida": 14,
+      "faturamento": 594.46,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 5 Rolamento 697z - 697 Zz - 697zz 7x17x5mm Aço Carbono",
+      "nome": "Kit 5 Rolamento 697z - 697 Zz - 697zz 7x17x5mm Aço Carbono",
+      "quantidade_vendida": 20,
+      "faturamento": 559.4,
+      "custo_unitario": null
+    },
+    {
+      "sku": "NK 2216",
+      "nome": "Rolamento Da Embreagem Doppler Marcha Lenta Mobilete Nk2216",
+      "quantidade_vendida": 20,
+      "faturamento": 554.4,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCP 204",
+      "nome": "Ucp 204 Mancal Pedestal + Rolamento Para Eixo 20mm",
+      "quantidade_vendida": 12,
+      "faturamento": 541.48,
+      "custo_unitario": null
+    },
+    {
+      "sku": "624 ZZ",
+      "nome": "Kit Com 10 Rolamentos 624 Zz - Medidas 4x13x5mm",
+      "quantidade_vendida": 17,
+      "faturamento": 536.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 2RS catalog",
+      "nome": "Kit 10 Rolamento 6001 2rs 12x28x8 Cinza",
+      "quantidade_vendida": 19,
+      "faturamento": 532.25,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 2z skf",
+      "nome": "Rolamento 6204 2z De Esferas Blindado Skf - Unidade",
+      "quantidade_vendida": 15,
+      "faturamento": 524.25,
+      "custo_unitario": null
+    },
+    {
+      "sku": "609 2RS",
+      "nome": "Kit 10 Rolamentos 609 2rs Medidas 9x24x7",
+      "quantidade_vendida": 18,
+      "faturamento": 511.46,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6900 2RS",
+      "nome": "Kit 10 Rolamentos 6900 2rs Rígido De Esferas 10x22x6mm Preto",
+      "quantidade_vendida": 17,
+      "faturamento": 506.47,
+      "custo_unitario": null
+    },
+    {
+      "sku": "GE 20 DO",
+      "nome": "Rotula Esfera Radial Ge 20 Do ( Es ) - Kit 10 Pçs",
+      "quantidade_vendida": 3,
+      "faturamento": 487.11,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Na 4902 - Rolamento De Agulha Com Anel Interno",
+      "nome": "Na 4902 - Rolamento De Agulha Com Anel Interno",
+      "quantidade_vendida": 13,
+      "faturamento": 479.96,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCF 210",
+      "nome": "Ucf 210 - Mancal Quadrado + Rolamento Para Eixo 50mm",
+      "quantidade_vendida": 6,
+      "faturamento": 474.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "ROLDANA D21",
+      "nome": "Roldana D21 P/ Esquadria, Portão, Armário Kit 20 Unidades",
+      "quantidade_vendida": 10,
+      "faturamento": 473.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK1516",
+      "nome": "Rolamento De Agulha Hk 1516 - 15x21x16 Kit Com 2 Peças",
+      "quantidade_vendida": 22,
+      "faturamento": 462.23,
+      "custo_unitario": null
+    },
+    {
+      "sku": "607 2RS",
+      "nome": "Rolamentos 607 2rs Kit Com 10 Peças 7x19x6 Prateado",
+      "quantidade_vendida": 18,
+      "faturamento": 460.06,
+      "custo_unitario": null
+    },
+    {
+      "sku": "GE 32 LO",
+      "nome": "Kit 5 Unidades Ge 32 Lo - Rotula Radial 32x52x32",
+      "quantidade_vendida": 1,
+      "faturamento": 459.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6805 2RS",
+      "nome": "10 Rolamentos Mov Central Shimano Bb52 Mt500 Hollowtech",
+      "quantidade_vendida": 9,
+      "faturamento": 449.11,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK3016",
+      "nome": "Rolamento De Agulha Hk 3016 - 30x37x16",
+      "quantidade_vendida": 23,
+      "faturamento": 448.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UC207",
+      "nome": "Rolamento Uc 207 Eixo 35mm",
+      "quantidade_vendida": 14,
+      "faturamento": 437.78,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6200 2RS GBR",
+      "nome": "10 Peças Rolamento 6200 2rs Marca Gbr 10x30x9 Preto",
+      "quantidade_vendida": 13,
+      "faturamento": 437.75,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6805 ZZ",
+      "nome": "2 Rolamentos Movimento Central Shimano Bb52 Mt500 Hollowtech",
+      "quantidade_vendida": 17,
+      "faturamento": 433.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "51110",
+      "nome": "Rolamento Axial De Esferas 51110 50x70x14",
+      "quantidade_vendida": 15,
+      "faturamento": 429.43,
+      "custo_unitario": null
+    },
+    {
+      "sku": "30206 + 6305 ZZ",
+      "nome": "2 Rolamentos P/ Betoneira Menegotti Eixo Central 120/150l",
+      "quantidade_vendida": 9,
+      "faturamento": 426.03,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK2216",
+      "nome": "Rolamento De Agulha Hk 2216 - 22x28x16 Kit Com 4 Peças",
+      "quantidade_vendida": 13,
+      "faturamento": 422.42,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCFL 204",
+      "nome": "Ucfl204 - Mancal Com Rolamento Para Eixo 20mm - 1 Unidade",
+      "quantidade_vendida": 14,
+      "faturamento": 417.38,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 2RS NSK",
+      "nome": "Rolamento 6203 2rs Marca Nsk 17x40x12",
+      "quantidade_vendida": 16,
+      "faturamento": 412.92,
+      "custo_unitario": null
+    },
+    {
+      "sku": "99015 C/ Capa",
+      "nome": "Rolamento 99015 Com Capa - Rolamento Rolete Tubular 1 Pol. Prateado",
+      "quantidade_vendida": 14,
+      "faturamento": 410.82,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 1210",
+      "nome": "Rolamento De Agulha Hk 1210 - 12x16x10 Kit Com 10 Peças",
+      "quantidade_vendida": 9,
+      "faturamento": 409.52,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 1516",
+      "nome": "Rolamento De Agulha Hk 1516 - 15x21x16 Kit Com 4 Peças",
+      "quantidade_vendida": 20,
+      "faturamento": 405.96,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 6004 2rs Gbr - Kit 10 Peças Cinza",
+      "nome": "Rolamento 6004 2rs Gbr - Kit 10 Peças Cinza",
+      "quantidade_vendida": 8,
+      "faturamento": 399.76,
+      "custo_unitario": null
+    },
+    {
+      "sku": "30206 + 6305 2RS",
+      "nome": "Kit Com Rolamentos Tambor Betoneira Menegotti 120/150 Litros",
+      "quantidade_vendida": 8,
+      "faturamento": 395.01,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 1616",
+      "nome": "Rolamento De Agulha Hk 1616 - 16x22x16 Kit Com 4 Peças",
+      "quantidade_vendida": 19,
+      "faturamento": 394.4,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 18 L",
+      "nome": "Terminal Rotular Macho Pos 18 L Rosca Esquerda - M18x1,5",
+      "quantidade_vendida": 6,
+      "faturamento": 386.82,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 10 L",
+      "nome": "Terminal Rotular Macho Pos 10 L Rosca Esquerda - M10x1,5",
+      "quantidade_vendida": 14,
+      "faturamento": 384.58,
+      "custo_unitario": null
+    },
+    {
+      "sku": "100 Pçs Anel Elástico Para Eixo 20mm",
+      "nome": "100 Pçs Anel Elástico Para Eixo 20mm",
+      "quantidade_vendida": 7,
+      "faturamento": 381.29,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 22308 - Medidas 40x90x33mm Autocompensador De Rolos",
+      "nome": "Rolamento 22308 - Medidas 40x90x33mm Autocompensador De Rolos",
+      "quantidade_vendida": 3,
+      "faturamento": 378.21,
+      "custo_unitario": null
+    },
+    {
+      "sku": "100 - Esferas 8mm",
+      "nome": "Esfera Aço 100 Unidades 8mm Estilingue Atiradeira Bolinha Prata",
+      "quantidade_vendida": 13,
+      "faturamento": 377.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6209 2RS GBR",
+      "nome": "10 Peças Rolamento 6209 2rs Marca Gbr 45x85x19 Preto",
+      "quantidade_vendida": 2,
+      "faturamento": 375.76,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamento 6200zz Blindagem Esfera Rígido Gbr - 10 Un Kit 10 Rolamento 6200 Zz Cinza-escuro",
+      "nome": "Kit 10 Rolamento 6200zz Blindagem Esfera Rígido Gbr - 10 Un Kit 10 Rolamento 6200 Zz Cinza-escuro",
+      "quantidade_vendida": 13,
+      "faturamento": 373.01,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esferas 2mm",
+      "nome": "Esfera 2mm Aço Carbono Sts 500 Unidades",
+      "quantidade_vendida": 12,
+      "faturamento": 362.72,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit Com 10 Rolamentos Gbr 6201 2rs De Aço Cromado Prateado 12x32x10mm",
+      "nome": "Kit Com 10 Rolamentos Gbr 6201 2rs De Aço Cromado Prateado 12x32x10mm",
+      "quantidade_vendida": 10,
+      "faturamento": 361.7,
+      "custo_unitario": null
+    },
+    {
+      "sku": "TUBULAR 7/8 (94432)",
+      "nome": "Rolamento Tubular Carrinho Mão 7/8 X1.3/8 X2",
+      "quantidade_vendida": 12,
+      "faturamento": 354.84,
+      "custo_unitario": null
+    },
+    {
+      "sku": "605 ZZ",
+      "nome": "Rolamento 605 Zz Kit Com 10 Peças 5x14x5",
+      "quantidade_vendida": 10,
+      "faturamento": 351.78,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6010 2RS catalog",
+      "nome": "Kit 4 Rolamento Gbr 6010 2rs Rolima 50x80x16mm Cinza Aço Cromo",
+      "quantidade_vendida": 4,
+      "faturamento": 349.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 20 peças 608 zz carbono",
+      "nome": "Kit 20 Rolamentos 608 Zz C3 Prateado 8x22x7 Rígido De Esferas",
+      "quantidade_vendida": 12,
+      "faturamento": 329.64,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Anel Elástico Para Eixo 25 Mm Kit Com 10 Peças",
+      "nome": "Anel Elástico Para Eixo 25 Mm Kit Com 10 Peças",
+      "quantidade_vendida": 10,
+      "faturamento": 327.45,
+      "custo_unitario": null
+    },
+    {
+      "sku": "GRAXA AZUL 500g",
+      "nome": "Graxa Azul Fag Para Rolamentos E Multiuso 500g",
+      "quantidade_vendida": 5,
+      "faturamento": 323.83,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 ZZ",
+      "nome": "Rolamento Para Skate/hand Spinner - 608 Zz 8x22x7",
+      "quantidade_vendida": 24,
+      "faturamento": 319.61,
+      "custo_unitario": null
+    },
+    {
+      "sku": "5205 2RS",
+      "nome": "Rolamento 5205 2rs - Medidas 25x52x20,6mm",
+      "quantidade_vendida": 7,
+      "faturamento": 316.33,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6903 2rs",
+      "nome": "Kit 4 Peças Rolamento 6903 2rs 17x30x7 Roda Bike Moto",
+      "quantidade_vendida": 10,
+      "faturamento": 316.16,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esferas De Aço Cromo 2mm - Alta Qualidade - 1.000 Peças",
+      "nome": "Esferas De Aço Cromo 2mm - Alta Qualidade - 1.000 Peças",
+      "quantidade_vendida": 5,
+      "faturamento": 311.35,
+      "custo_unitario": null
+    },
+    {
+      "sku": "609 2rs hch",
+      "nome": "Kit 10 Rolamentos 609 2rs Hch  9x24x7 Alta Rotação",
+      "quantidade_vendida": 4,
+      "faturamento": 303.68,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6201 ZZ catalog",
+      "nome": "Kit 20 Peças Rolamento Rígido De Esfera 6201 Zz C3 12x32x10",
+      "quantidade_vendida": 4,
+      "faturamento": 299.46,
+      "custo_unitario": null
+    },
+    {
+      "sku": "698 zz",
+      "nome": "Kit De 5 Rolamentos Tpcid 698z Abec 7 Para Eixo De 8mm Prateado",
+      "quantidade_vendida": 11,
+      "faturamento": 297.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "RNA 4904",
+      "nome": "Rna 4904 Rolamento Agulha Medidas 25x37x17",
+      "quantidade_vendida": 7,
+      "faturamento": 295.79,
+      "custo_unitario": null
+    },
+    {
+      "sku": "GRAXA SKF 500G",
+      "nome": "Graxa De Lítio Para Rolamentos Skf Vkg 2k 500g Premium",
+      "quantidade_vendida": 7,
+      "faturamento": 292.39,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 zz NSK",
+      "nome": "Rolamento 608zz Nsk Blindado Com Esferas Cor Prateado",
+      "quantidade_vendida": 17,
+      "faturamento": 290.46,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCF 205",
+      "nome": "Ucf 205 - Mancal Quadrado + Rolamento Para Eixo 25mm",
+      "quantidade_vendida": 10,
+      "faturamento": 289.7,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6201 ZZ",
+      "nome": "Rolamento Gbr 6201 Zz Kit 10 Peças Blindagem Zz",
+      "quantidade_vendida": 11,
+      "faturamento": 289.05,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Micro Rolamento 626 Zz - 626z 6x19x6mm  Aço Carbono",
+      "nome": "Kit 10 Micro Rolamento 626 Zz - 626z 6x19x6mm  Aço Carbono",
+      "quantidade_vendida": 10,
+      "faturamento": 288.41,
+      "custo_unitario": null
+    },
+    {
+      "sku": "GRAXA AZUL",
+      "nome": "2 Unidades Graxa Azul Fag Para Rolamentos E Multiuso 500g",
+      "quantidade_vendida": 2,
+      "faturamento": 287.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Gbr 6205 2rs Preto",
+      "nome": "Gbr 6205 2rs Preto",
+      "quantidade_vendida": 2,
+      "faturamento": 285.33,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK2816",
+      "nome": "Rolamento De Agulha Hk 2816 - 28x32x16 Kit Com 2 Peças",
+      "quantidade_vendida": 13,
+      "faturamento": 277.27,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6902 2RS HCH",
+      "nome": "4 Unidades Rolamento 6902 Roda Tras/diant Vzan Everest Xc",
+      "quantidade_vendida": 6,
+      "faturamento": 274.62,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LM 35 UU",
+      "nome": "Rolamento Linear Lm 35 Uu - 35x52x70",
+      "quantidade_vendida": 4,
+      "faturamento": 274.08,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Gbr 6204 2rs C3 20x47x14mm Preto",
+      "nome": "Gbr 6204 2rs C3 20x47x14mm Preto",
+      "quantidade_vendida": 5,
+      "faturamento": 265.85,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 ZZ catalog",
+      "nome": "Kit 10 Rolamentos Gbr 6204 Zz Blindados Diâmetro 20x47x14mm Aço Metal",
+      "quantidade_vendida": 5,
+      "faturamento": 265.85,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6205 2RS GBR - KIT10 - catalog",
+      "nome": "Kit 10 Peças Rolamento Rígido Esferas 6205 2rs C3 25x52x15 Cor Preto",
+      "quantidade_vendida": 4,
+      "faturamento": 264.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 2RS - KIT50 - HCH",
+      "nome": "Kit C/ 50 Rolamentos 608 2rsc3 - Hch Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 264.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Gbr 30209 Prateado",
+      "nome": "Gbr 30209 Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 261.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 1816",
+      "nome": "Rolamento De Agulha Hk 1816 - 18x24x16 Kit Com 4 Peças",
+      "quantidade_vendida": 9,
+      "faturamento": 261.33,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6302 2RS NSK",
+      "nome": "Kit 10 Peças Rolamento 6302 2rs Marca Nsk 15x42x13",
+      "quantidade_vendida": 1,
+      "faturamento": 255.96,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6202 2RS",
+      "nome": "Gbr/gtop 6202 2rs Metal",
+      "quantidade_vendida": 8,
+      "faturamento": 252.76,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 1312",
+      "nome": "Rolamento De Agulha Hk 1312 - 13x19x12 Kit Com 4 Peças",
+      "quantidade_vendida": 15,
+      "faturamento": 246.15,
+      "custo_unitario": null
+    },
+    {
+      "sku": "013361 + 015775",
+      "nome": "Kit Rolamentos 6205 + 6206 Lavadora E Lava Seca Samsung Nsk",
+      "quantidade_vendida": 4,
+      "faturamento": 245.84,
+      "custo_unitario": null
+    },
+    {
+      "sku": "NK 152312",
+      "nome": "Rolamento Agulha Crf 230 / Crf230 15x23x12 (91106kb4003)",
+      "quantidade_vendida": 7,
+      "faturamento": 239.56,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamento 6203 2rs Blindado Rígido De Esferas Maquina Metal",
+      "nome": "Kit 10 Rolamento 6203 2rs Blindado Rígido De Esferas Maquina Metal",
+      "quantidade_vendida": 7,
+      "faturamento": 237.99,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LME 30 UU",
+      "nome": "Lme 30 Uu Rolamento Linear 30x47x68 Kit 02 Peças",
+      "quantidade_vendida": 2,
+      "faturamento": 236.64,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POSB 10 L",
+      "nome": "Terminal Rotular Macho Posb 10 L Rosca Esquerda - 5/8",
+      "quantidade_vendida": 2,
+      "faturamento": 221.86,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POSB 10 A",
+      "nome": "Terminal Rotular Macho Posb 10 A Rosca Direita - 5/8",
+      "quantidade_vendida": 2,
+      "faturamento": 220.34,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamentos 605 2rs Medidas 5x14x5mm",
+      "nome": "Kit 10 Rolamentos 605 2rs Medidas 5x14x5mm",
+      "quantidade_vendida": 6,
+      "faturamento": 213.19,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 2RS C3 NSK ( Folga C3 )",
+      "nome": "Rolamento 6203 2rs C3 Marca Nsk 17x40x12",
+      "quantidade_vendida": 8,
+      "faturamento": 212.02,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6003 ZZ GBR",
+      "nome": "Kit Com 10 Pçs Rolamento 6003 Zz Marca Gbr 17x35x10 Prateado",
+      "quantidade_vendida": 6,
+      "faturamento": 211.9,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento Axial De Agulha - Conjunto Axk 6590 + As 6590",
+      "nome": "Rolamento Axial De Agulha - Conjunto Axk 6590 + As 6590",
+      "quantidade_vendida": 2,
+      "faturamento": 210.15,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E5MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 5mm",
+      "quantidade_vendida": 8,
+      "faturamento": 208.2,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6209 ZZ GBR",
+      "nome": "10 Peças Rolamento 6209 Zz Marca Gbr 45x85x19 Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 199.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 ZZ",
+      "nome": "Kit 10 Rolamentos 6001 Zz 12x28x8 Rolamento Metal",
+      "quantidade_vendida": 7,
+      "faturamento": 199.29,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCP 205",
+      "nome": "Ucp 205 Mancal Pedestal Com Rolamento Para Eixo 25mm",
+      "quantidade_vendida": 5,
+      "faturamento": 195.48,
+      "custo_unitario": null
+    },
+    {
+      "sku": "PHS 10 A",
+      "nome": "Terminal Rotular Fêmea Phs 10 A Rosca Direita - M10x1,5",
+      "quantidade_vendida": 5,
+      "faturamento": 194.95,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6302 ZZ TIMKEN",
+      "nome": "Kit 10 Rolamentos 6302 Zz Timken Original 15x42x13mm Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 194.47,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6002 ZZ SKF",
+      "nome": "Rolamento 6002 Zz Marca Skf 15x32x9",
+      "quantidade_vendida": 8,
+      "faturamento": 193.3,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6000 2rs red",
+      "nome": "10x Rolamento Absolute 6000 2rs Cubo Freehub Bike Mtb/speed Vermelho",
+      "quantidade_vendida": 6,
+      "faturamento": 192.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "607 ZZ",
+      "nome": "Rolamento 607 Zz 7x19x6 Kit 10 Peças",
+      "quantidade_vendida": 7,
+      "faturamento": 192.29,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 ddu nsk",
+      "nome": "Rolamentos Nsk 6203 Ddu C3 - 17x40x12 Kit Com 10 Unidades Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 187.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KR 22 PP",
+      "nome": "Kr 22 Pp - Rolamento Rolo De Leva M10x1",
+      "quantidade_vendida": 5,
+      "faturamento": 186.35,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento Catraca De Agulha Hfl2026 Medidas 20x26x26",
+      "nome": "Rolamento Catraca De Agulha Hfl2026 Medidas 20x26x26",
+      "quantidade_vendida": 3,
+      "faturamento": 183.69,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UC 205 - KIT 2",
+      "nome": "Kit C/ 2 Rolamentos Para Mancal Uc205 Para Eixo 25mm",
+      "quantidade_vendida": 6,
+      "faturamento": 182.34,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6206 DDU C3 NSK",
+      "nome": "Rolamento 6206 Ddu C3 Nsk Original 30x62x16",
+      "quantidade_vendida": 4,
+      "faturamento": 181.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCFL 208",
+      "nome": "Ucfl 208 - Mancal Oval + Rolamento Para Eixo 40mm",
+      "quantidade_vendida": 3,
+      "faturamento": 179.61,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit Com 100 Peças Anel Elástico Para Eixo 25mm",
+      "nome": "Kit Com 100 Peças Anel Elástico Para Eixo 25mm",
+      "quantidade_vendida": 3,
+      "faturamento": 178.2,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6006 ZZ NSK",
+      "nome": "Rolamento 6006 Zz Marca Nsk 30x55x13",
+      "quantidade_vendida": 5,
+      "faturamento": 177.35,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LM11749/10",
+      "nome": "Rolamento Rolos Cônicos Lm11749/10 - 17,462x39,878x13,843",
+      "quantidade_vendida": 6,
+      "faturamento": 176.22,
+      "custo_unitario": null
+    },
+    {
+      "sku": "PHS 12 A + PHS 12 L",
+      "nome": "Kit Terminal Phs 12 - 1 Rosca Direita E 1 Rosca Esquerda",
+      "quantidade_vendida": 2,
+      "faturamento": 175.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 2RS TIMKEN",
+      "nome": "Kit 10 Rolamentos 6203 2rs Timken Original 17x40x12mm Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 169.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit Com 10 Rolamentos 6204 2rs Gbr De Aço Para Motor Rolamento 6204 2rs Cinza-escuro",
+      "nome": "Kit Com 10 Rolamentos 6204 2rs Gbr De Aço Para Motor Rolamento 6204 2rs Cinza-escuro",
+      "quantidade_vendida": 3,
+      "faturamento": 169.41,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 20 A + POS 20 L",
+      "nome": "Kit Terminal Pos 20 Rosca Direita E Esquerda - M20x1,5",
+      "quantidade_vendida": 1,
+      "faturamento": 167.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 20 Rolamentos 608 Zz C3 Prateado 8x22x7 Rígido De Esferas",
+      "nome": "Kit 20 Rolamentos 608 Zz C3 Prateado 8x22x7 Rígido De Esferas",
+      "quantidade_vendida": 6,
+      "faturamento": 164.82,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6200 2RS NSK",
+      "nome": "Kit Com 10 Pçs Rolamento 6200 2rs Marca Nsk 10x30x9 Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 160.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Sce 88 - Rolamento De Agulha Para Eixo De Meia Polegada 1/2",
+      "nome": "Sce 88 - Rolamento De Agulha Para Eixo De Meia Polegada 1/2",
+      "quantidade_vendida": 6,
+      "faturamento": 160.02,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 2RS-KIT10- NSK",
+      "nome": "Kit Com 10 Pçs Rolamento 6001 2rs Marca Nsk 12x28x8 Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 159.21,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E 30mm",
+      "nome": "Anel Elástico Para Eixo Kit Com 100 Peças 30mm",
+      "quantidade_vendida": 2,
+      "faturamento": 153.99,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 ZZ catalog",
+      "nome": "Kit 8 Rolamentos Blk 608 Zz Para Skate Roller Patins Abec 7",
+      "quantidade_vendida": 7,
+      "faturamento": 153.72,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LM 20 UU",
+      "nome": "Rolamento Linear Lm 20 Uu - 20x32x42 Kit Com 4 Peças",
+      "quantidade_vendida": 2,
+      "faturamento": 149.7,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6003 ZZ",
+      "nome": "Rolamento Rígido De Esferas 6003 Zz 17x35x10 Kit 10 Peças",
+      "quantidade_vendida": 5,
+      "faturamento": 147.45,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E25MM - 100",
+      "nome": "Anel Elástico Para Eixo Kit Com 100 Peças 25mm",
+      "quantidade_vendida": 2,
+      "faturamento": 145.21,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6207 2RS GBR",
+      "nome": "10 Peças Rolamento 6207 2rs Marca Gbr 35x72x17 Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 142.62,
+      "custo_unitario": null
+    },
+    {
+      "sku": "629 2z skf",
+      "nome": "Rolamento Skf 629-2z Aço Diâmetro Interno 9mm Externo 26mm Proteção Zz",
+      "quantidade_vendida": 7,
+      "faturamento": 142.38,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UC206",
+      "nome": "Rolamento Para Mancal Uc 206",
+      "quantidade_vendida": 6,
+      "faturamento": 141.42,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6805",
+      "nome": "2 Rolamentos 6805 Movimento Central Absolute Hollowtech Mtb",
+      "quantidade_vendida": 2,
+      "faturamento": 140.42,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCFL 205",
+      "nome": "Ucfl 205 - Mancal Oval + Rolamento Para Eixo 25mm",
+      "quantidade_vendida": 4,
+      "faturamento": 139.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E8MM",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 8mm",
+      "quantidade_vendida": 5,
+      "faturamento": 138.45,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCP205-2-C1",
+      "nome": "Ucp205  Kit Com 2 Mancal Com Rolamento Para Eixos De 25mm",
+      "quantidade_vendida": 2,
+      "faturamento": 137.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E7MM",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 7mm",
+      "quantidade_vendida": 5,
+      "faturamento": 134.6,
+      "custo_unitario": null
+    },
+    {
+      "sku": "PHS 8 L",
+      "nome": "Terminal Rotular Fêmea Phs 8 L Rosca Esquerda - M8x1,25",
+      "quantidade_vendida": 4,
+      "faturamento": 132.32,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 2212",
+      "nome": "Rolamento Hk 2212 - 22x28x12",
+      "quantidade_vendida": 9,
+      "faturamento": 129.67,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6205 ZZ",
+      "nome": "6205 Zz Rolamento Rígido De Esferas 25x52x15",
+      "quantidade_vendida": 9,
+      "faturamento": 129.33,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCP 206",
+      "nome": "02 Mancal Pedestal Apoio Com Rolamento Ucp206 - P Eixo 30mm",
+      "quantidade_vendida": 1,
+      "faturamento": 127.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "2 POS 12 A + 2 POS 12 L",
+      "nome": "Kit Pos 12 - 2 Rosca Direita E 2 Rosca Esquerda M12x1,75 0",
+      "quantidade_vendida": 1,
+      "faturamento": 124.9,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Hms 6203 Zz Rolamento 6203 Zz Cinza-escuro",
+      "nome": "Hms 6203 Zz Rolamento 6203 Zz Cinza-escuro",
+      "quantidade_vendida": 4,
+      "faturamento": 124.68,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6000 ZZ gbr",
+      "nome": "Kit 10 Peças Rolamento Rígido De Esferas 6000 Zz C3 10x26x8 Prateado",
+      "quantidade_vendida": 4,
+      "faturamento": 123.96,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 2RS catalog",
+      "nome": "Kit 10 Rolamentos 608 2rs Gbr P/ Skate, Longboard E Patins Kit 10 Rolamento 608 2rs Cinza-escuro",
+      "quantidade_vendida": 5,
+      "faturamento": 123.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6802 2rs",
+      "nome": "Kit 10 Peças Rolamento 6802 2rs 15x24x5 Roda Bike",
+      "quantidade_vendida": 3,
+      "faturamento": 121.11,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 10 A",
+      "nome": "Terminal Rotular Macho Pos 10 A Rosca Direita - M10x1,5",
+      "quantidade_vendida": 4,
+      "faturamento": 119.08,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 ZZ",
+      "nome": "Rolamento 6203zz  40x17x12 Kit Com 10 Peças",
+      "quantidade_vendida": 4,
+      "faturamento": 117.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "2 - 6210 2RS",
+      "nome": "Kit Com 2 Rolamentos 6210 Para Carrinhos De Rolimã - Grande Preto",
+      "quantidade_vendida": 2,
+      "faturamento": 117.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "51307",
+      "nome": "Rolamento Axial 51307 Medidas 35x68x24",
+      "quantidade_vendida": 3,
+      "faturamento": 116.31,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E9MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 9mm",
+      "quantidade_vendida": 4,
+      "faturamento": 115.32,
+      "custo_unitario": null
+    },
+    {
+      "sku": "623 ZZ-KIT05",
+      "nome": "Kit 5 Micro Rolamento 693zz 3x8x4mm Aço Carbono 0",
+      "quantidade_vendida": 3,
+      "faturamento": 113.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 zz catalog",
+      "nome": "Kit 10 Rolamento 6204 Zz Medida 20x47x14 Prateado",
+      "quantidade_vendida": 2,
+      "faturamento": 113.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6201 ZZ SKF",
+      "nome": "Rolamento 6201 Zz Marca Skf Original 12x32x10",
+      "quantidade_vendida": 4,
+      "faturamento": 112.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "10 - 6203 2RS GBR catalog",
+      "nome": "10 Rolamento 6203 2rs 17x40x12",
+      "quantidade_vendida": 3,
+      "faturamento": 111.71,
+      "custo_unitario": null
+    },
+    {
+      "sku": "ESFERA 12MM",
+      "nome": "Esfera Aço Cromo 12 Mm - 10 Unidades",
+      "quantidade_vendida": 5,
+      "faturamento": 110.22,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Ucr 608zz Prateado",
+      "nome": "Ucr 608zz Prateado",
+      "quantidade_vendida": 4,
+      "faturamento": 109.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6010",
+      "nome": "Kit Com 4 Rolamentos 6010 Para Carrinhos De Rolimã - Grande",
+      "quantidade_vendida": 1,
+      "faturamento": 108.8,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 2520",
+      "nome": "Rolamento De Agulha Hk 2520 - 25x32x20 Kit Com 4 Peças",
+      "quantidade_vendida": 2,
+      "faturamento": 107.3,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 6302 Zz Rígido De Esferas Nsk 15x42x13 Cor Prateado",
+      "nome": "Rolamento 6302 Zz Rígido De Esferas Nsk 15x42x13 Cor Prateado",
+      "quantidade_vendida": 4,
+      "faturamento": 106.68,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCP 208-24",
+      "nome": "Ucp 208-24 Mancal Pedestal + Rolamento Para Eixo 38mm 0",
+      "quantidade_vendida": 1,
+      "faturamento": 104.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "H310",
+      "nome": "Bucha De Fixação Para Rolamento H 310 Bgl",
+      "quantidade_vendida": 2,
+      "faturamento": 104.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 609 Zz 9x24x7 Kit 10 Peças Azul-aço",
+      "nome": "Rolamento 609 Zz 9x24x7 Kit 10 Peças Azul-aço",
+      "quantidade_vendida": 4,
+      "faturamento": 102.58,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Peças  684 Zz - Rolamento Com Blindagem De Aço 4x9x4",
+      "nome": "Kit 10 Peças  684 Zz - Rolamento Com Blindagem De Aço 4x9x4",
+      "quantidade_vendida": 2,
+      "faturamento": 102.31,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Anel E-7mm",
+      "nome": "Anel Elastico Para Eixo 7mm Externo De Retenção 25 Unidades",
+      "quantidade_vendida": 4,
+      "faturamento": 97.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "NK 2520",
+      "nome": "Rolamento De Agulhas Nk2520 25x33x20",
+      "quantidade_vendida": 2,
+      "faturamento": 95.14,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK0808",
+      "nome": "Rolamento De Agulha Hk 0808 - 08x12x08 Kit 4 Peças",
+      "quantidade_vendida": 7,
+      "faturamento": 95.08,
+      "custo_unitario": null
+    },
+    {
+      "sku": "606 ZZ",
+      "nome": "Kit 10 Rolamentos 606 Zz Medidas 6x17x6mm Azul-aço",
+      "quantidade_vendida": 3,
+      "faturamento": 94.37,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK1612",
+      "nome": "2 Pçs Rolamento De Agulha Da Polia 1612 Mobilete Bikelete",
+      "quantidade_vendida": 5,
+      "faturamento": 94.26,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6805 zz",
+      "nome": "10 Rolamentos Mov. Central Shimano Bb52 Mt500 Hollowtech",
+      "quantidade_vendida": 1,
+      "faturamento": 91.69,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 20 A",
+      "nome": "Terminal Rotular Macho Pos 20 A Rosca Direita - M20x1,5",
+      "quantidade_vendida": 1,
+      "faturamento": 91.15,
+      "custo_unitario": null
+    },
+    {
+      "sku": "22208",
+      "nome": "Rolamento 22208 Medidas 40x80x23 Autocompensador De Rolos",
+      "quantidade_vendida": 1,
+      "faturamento": 90.43,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 2rs c3 skf",
+      "nome": "Rolamento Skf Modelo 6203 - 2rs 40x17x12",
+      "quantidade_vendida": 3,
+      "faturamento": 89.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6202 ZZ GBR",
+      "nome": "Kit 10 Peças Rolamento Rígido De Esfera 6202 Zz C3 15x35x1",
+      "quantidade_vendida": 3,
+      "faturamento": 89.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCFL 206",
+      "nome": "Ucfl 206 - Mancal Oval + Rolamento Para Eixo 30mm",
+      "quantidade_vendida": 2,
+      "faturamento": 87.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "10x Rolamento 6001 Zz Esfera Máquina Rígido Motor Para Ventilador",
+      "nome": "10x Rolamento 6001 Zz Esfera Máquina Rígido Motor Para Ventilador",
+      "quantidade_vendida": 3,
+      "faturamento": 85.41,
+      "custo_unitario": null
+    },
+    {
+      "sku": "51103",
+      "nome": "Rolamento Axial De Esferas 51103 17x30x9",
+      "quantidade_vendida": 8,
+      "faturamento": 84.86,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UC 204",
+      "nome": "Rolamento Para Mancal Uc 204 - Furo 20mm",
+      "quantidade_vendida": 5,
+      "faturamento": 84.2,
+      "custo_unitario": null
+    },
+    {
+      "sku": "51108",
+      "nome": "Rolamento Axial De Esferas 51108 40x60x13",
+      "quantidade_vendida": 5,
+      "faturamento": 83.63,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6802 2RS GBR",
+      "nome": "10 Peças Rolamento 6802 2rs Marca Gbr 15x24x5 Roda Bike Preto",
+      "quantidade_vendida": 2,
+      "faturamento": 82.88,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 2 Rolamentos Nk12/16 - 12x19x16mm ( Nk1216 )",
+      "nome": "Kit 2 Rolamentos Nk12/16 - 12x19x16mm ( Nk1216 )",
+      "quantidade_vendida": 2,
+      "faturamento": 82.34,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6202 C3",
+      "nome": "Rolamento Para Roda Traseira Dafra Citycom 300i",
+      "quantidade_vendida": 4,
+      "faturamento": 82.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK2220",
+      "nome": "Kit Com 2 Unidades Rolamento Hk 2220 - 22x28x20 Oferta",
+      "quantidade_vendida": 3,
+      "faturamento": 80.91,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6900 ZZ",
+      "nome": "Kit 2 Rolamentos Rodinha Carrinho De Bebê - 6900zz",
+      "quantidade_vendida": 3,
+      "faturamento": 80.31,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Graxa Ultra 260 Poliureia 385g",
+      "nome": "Lubrificante Graxa De Poliureia Gbr Multiuso 385g",
+      "quantidade_vendida": 1,
+      "faturamento": 79.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6205 2RS Catraca",
+      "nome": "Rolamento Catraca Lavadora Electrolux Top 8 Le08 6205",
+      "quantidade_vendida": 1,
+      "faturamento": 79.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 6206 2rs C3 - Hch",
+      "nome": "Rolamento 6206 2rs C3 - Hch",
+      "quantidade_vendida": 3,
+      "faturamento": 79.14,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Zip N2",
+      "nome": "100 Sacos - Saquinho Ziplock Hermético N2 6x9 Abre/fecha",
+      "quantidade_vendida": 4,
+      "faturamento": 79.08,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit Com 10 Rolamentos Gbr De Aço Para Motores Prateado",
+      "nome": "Kit Com 10 Rolamentos Gbr De Aço Para Motores Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 78.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "629 2RS",
+      "nome": "Rolamento 629 2rs 9x26x8 Kit 10 Peças Azul-aço",
+      "quantidade_vendida": 2,
+      "faturamento": 77.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "627 ZZ",
+      "nome": "Kit Com 10 Peças Rolamento 627 Zz - 7x22x7",
+      "quantidade_vendida": 3,
+      "faturamento": 77.29,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Mancal Ucp204 - Pedestal Com Rolamento Para Eixo De 20mm",
+      "nome": "Mancal Ucp204 - Pedestal Com Rolamento Para Eixo De 20mm",
+      "quantidade_vendida": 2,
+      "faturamento": 76.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Micro Rolamento 625 Zz - 625zz 5x16x5mm Aço Carbono 0",
+      "nome": "Kit 10 Micro Rolamento 625 Zz - 625zz 5x16x5mm Aço Carbono 0",
+      "quantidade_vendida": 2,
+      "faturamento": 75.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "(02 6301 2rs) + (03 6302 2RS)",
+      "nome": "Kit Rolamentos Rodas Cg Fan 125 2005 2006 2007 2008 2009 10",
+      "quantidade_vendida": 2,
+      "faturamento": 75.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "626 2RS-KIT10",
+      "nome": "Rolamento 626 2rs 6x19x6 Kit 10 Peças Azul-aço",
+      "quantidade_vendida": 2,
+      "faturamento": 74.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "30306",
+      "nome": "Rolamento De Rolos Cônicos 30306 - 30x72x20,75",
+      "quantidade_vendida": 2,
+      "faturamento": 74.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Pino Grax 8mm",
+      "nome": "Pino Graxeiro M8 8mm Pacote Com 100 Peças",
+      "quantidade_vendida": 1,
+      "faturamento": 72.07,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6000 2rs SKF",
+      "nome": "Rolamento 6000 2rs C3 Skf - Medidas 10x26x8mm - 1ª Linha",
+      "quantidade_vendida": 3,
+      "faturamento": 72.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Sacos ZipLock",
+      "nome": "100 Sacos - Saquinho Ziplock Hermético N1 5x7 Abre/fecha",
+      "quantidade_vendida": 5,
+      "faturamento": 71.7,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Conjunto Rolamento Axial De Agulha Axk 2542 + As 2542",
+      "nome": "Conjunto Rolamento Axial De Agulha Axk 2542 + As 2542",
+      "quantidade_vendida": 4,
+      "faturamento": 71.68,
+      "custo_unitario": null
+    },
+    {
+      "sku": "5201 2RS",
+      "nome": "Rolamento 5201 2rs - Medidas 12x32x15,9mm",
+      "quantidade_vendida": 2,
+      "faturamento": 70.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E12MM - 100",
+      "nome": "Anel Elástico Para Eixo Kit Com 100 Peças 12mm",
+      "quantidade_vendida": 1,
+      "faturamento": 69.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "1 Conjunto Rolamento Axial De Agulha - Axk 3552 + As 3552",
+      "nome": "1 Conjunto Rolamento Axial De Agulha - Axk 3552 + As 3552",
+      "quantidade_vendida": 2,
+      "faturamento": 68.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KR 30 PP",
+      "nome": "Kr 30 Pp - Rolamento Rolo De Leva - M12x1.5",
+      "quantidade_vendida": 2,
+      "faturamento": 67.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E20MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 20mm",
+      "quantidade_vendida": 2,
+      "faturamento": 67.21,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6002 2RS GBR",
+      "nome": "10 Peças Rolamento 6002 2rs Marca Gbr 15x32x9 Preto",
+      "quantidade_vendida": 2,
+      "faturamento": 65.9,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6207 ZZ",
+      "nome": "5 Rolamento 6207 Zz Máquina Motor Industrial Blindagem Esfera Kit 5 Peças Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 64.9,
+      "custo_unitario": null
+    },
+    {
+      "sku": "R12 ZZ",
+      "nome": "Kit 4 Peças R12 Zz Rolamento 19,05x41,275x11,113",
+      "quantidade_vendida": 1,
+      "faturamento": 64.57,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 6202 Zz Esfera Motor Máquina Blindagem Kit 10 Peças",
+      "nome": "Rolamento 6202 Zz Esfera Motor Máquina Blindagem Kit 10 Peças",
+      "quantidade_vendida": 2,
+      "faturamento": 63.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E12MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 12mm",
+      "quantidade_vendida": 2,
+      "faturamento": 62.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6902 2RS",
+      "nome": "Kit 4 Peças Rolamento 6902 2rs 15x28x7 Roda De Bike Preto",
+      "quantidade_vendida": 2,
+      "faturamento": 62.92,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6902",
+      "nome": "6 Unidades Rolamento 6902 Roda Tras/diant Vzan Everest Xc",
+      "quantidade_vendida": 1,
+      "faturamento": 62.64,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Erexa Rolamento 6203 2rs Industrial Metal",
+      "nome": "Erexa Rolamento 6203 2rs Industrial Metal",
+      "quantidade_vendida": 2,
+      "faturamento": 62.34,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6003 2RS",
+      "nome": "Rolamento 6003 Ddu/2rs Nsk Original 17x35x10",
+      "quantidade_vendida": 2,
+      "faturamento": 62.14,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 ZZ GBR",
+      "nome": "10 Peças Rolamento 6204 Zz Marca Gbr 20x47x14 Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 60.57,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 2820",
+      "nome": "Rolamento De Agulha Hk 2820 - 28x35x20 Kit Com 4 Peças",
+      "quantidade_vendida": 1,
+      "faturamento": 60.2,
+      "custo_unitario": null
+    },
+    {
+      "sku": "GE 25 DO",
+      "nome": "Rotula Radial Esférica Ge 25 Do/es  25x42x20",
+      "quantidade_vendida": 2,
+      "faturamento": 59.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamentos 629zz Gbr Prateado",
+      "nome": "Kit 10 Rolamentos 629zz Gbr Prateado",
+      "quantidade_vendida": 2,
+      "faturamento": 59.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 2 Mancal Com Rolamento Ucp205-16 Para Eixo 25,4mm (1)",
+      "nome": "Kit 2 Mancal Com Rolamento Ucp205-16 Para Eixo 25,4mm (1)",
+      "quantidade_vendida": 1,
+      "faturamento": 59.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "4mm",
+      "nome": "100 Unidades Anel Elástico Retenção Trava Eixo Clip Arruela",
+      "quantidade_vendida": 1,
+      "faturamento": 58.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "5mm",
+      "nome": "100 Unidades Anel Elástico Retenção Trava Eixo Clip Arruela",
+      "quantidade_vendida": 1,
+      "faturamento": 58.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 2RS",
+      "nome": "Rolamento Esfera 6001 Compativel Base Da Lixadeira D26441",
+      "quantidade_vendida": 5,
+      "faturamento": 58.41,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 2030",
+      "nome": "Rolamento De Agulha Hk 2030 - 20x26x30 Kit Com 4 Peças",
+      "quantidade_vendida": 1,
+      "faturamento": 57.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LME 16 UU",
+      "nome": "Lme 16 Uu Rolamento Linear 16x26x36",
+      "quantidade_vendida": 2,
+      "faturamento": 57.46,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6001 ZZ catalog",
+      "nome": "Kit 10 Rolamento 6001 Zz 12x28x8 Prateado",
+      "quantidade_vendida": 2,
+      "faturamento": 56.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "H311",
+      "nome": "Bucha De Fixação Para Rolamento H 311 Bgl",
+      "quantidade_vendida": 1,
+      "faturamento": 55.76,
+      "custo_unitario": null
+    },
+    {
+      "sku": "10 - 6200 ZZ catalog",
+      "nome": "Kit 10 Peças Rolamentos Rígido De Esfera 6200 Zz C3 10x30x9",
+      "quantidade_vendida": 2,
+      "faturamento": 55.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit Com 10 Rolamentos 6204 2rs 20x47x14 Rígido De Esfera Preto",
+      "nome": "Kit Com 10 Rolamentos 6204 2rs 20x47x14 Rígido De Esfera Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 54.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK0910",
+      "nome": "Hk 0910 Kit 10 Peças 9x13x10",
+      "quantidade_vendida": 3,
+      "faturamento": 53.36,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LM 16 UU",
+      "nome": "Rolamento Linear Lm16uu Para Eixo 16mm",
+      "quantidade_vendida": 2,
+      "faturamento": 53.34,
+      "custo_unitario": null
+    },
+    {
+      "sku": "5207 ZZ",
+      "nome": "Rolamento 5207 Zz - Medidas 35x72x17mm",
+      "quantidade_vendida": 1,
+      "faturamento": 53.27,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamentos Gbr 6004 Zz - Medidas 20x42x12mm Cor Prateado",
+      "nome": "Kit 10 Rolamentos Gbr 6004 Zz - Medidas 20x42x12mm Cor Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 53.17,
+      "custo_unitario": null
+    },
+    {
+      "sku": "30206",
+      "nome": "Rolamento Cônico 30206 Medidas 30x62x17,25",
+      "quantidade_vendida": 2,
+      "faturamento": 53.14,
+      "custo_unitario": null
+    },
+    {
+      "sku": "5206 2RS",
+      "nome": "Rolamento 5206 2rs - Medidas 30x62x23,8mm",
+      "quantidade_vendida": 1,
+      "faturamento": 52.98,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E4MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 4mm",
+      "quantidade_vendida": 2,
+      "faturamento": 52.2,
+      "custo_unitario": null
+    },
+    {
+      "sku": "608 2RS HCH",
+      "nome": "Kit Com 10 Rolamentos 608 2rs / Ddu - 8x22x7 - Hch Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 51.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6204 ZZ",
+      "nome": "Rolamento 6204 Zz Kit Com 10 Peças 20x47x14 Cinza",
+      "quantidade_vendida": 1,
+      "faturamento": 51.47,
+      "custo_unitario": null
+    },
+    {
+      "sku": "kit2273-1",
+      "nome": "Anel Elastico Para Eixo 20mm Externo De Retenção 25 Unidades 25 Pçs - E-20",
+      "quantidade_vendida": 2,
+      "faturamento": 51.24,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Gbr 6004zz Prateado",
+      "nome": "Gbr 6004zz Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 51.17,
+      "custo_unitario": null
+    },
+    {
+      "sku": "3MM",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 3mm",
+      "quantidade_vendida": 2,
+      "faturamento": 50.25,
+      "custo_unitario": null
+    },
+    {
+      "sku": "MBR-AC-03555200 - 35x55x20mm",
+      "nome": "Rolamento 35x55x20 Delphi Cvc Sanden Ford Focus Bmw Calsonic",
+      "quantidade_vendida": 1,
+      "faturamento": 49.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "623 ZZ",
+      "nome": "Kit 10 Rolamentos Esferas 3x10x4 Imp Aço 623 Zz Azul-aço",
+      "quantidade_vendida": 2,
+      "faturamento": 47.83,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCF 206",
+      "nome": "Ucf 206 - Mancal Quadrado + Rolamento Para Eixo 30mm",
+      "quantidade_vendida": 1,
+      "faturamento": 46.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "KR 19 PP",
+      "nome": "Kr 19 Pp - Rolamento Rolo De Leva M8x1",
+      "quantidade_vendida": 1,
+      "faturamento": 43.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "626 2RS HCH",
+      "nome": "Rolamento Hch 626 2rs C3 Vedação 2rs 6mm Motor Elétrico Ferramentas Prateado",
+      "quantidade_vendida": 3,
+      "faturamento": 43.05,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Esferas 10mm",
+      "nome": "Esferas De Aço Cromo De 10mm Para Rolamento (pack De 10)",
+      "quantidade_vendida": 2,
+      "faturamento": 43.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "MG 511 / D21",
+      "nome": "Roldana Mg 511/d21 P/ Esquadria E Portão Kit 10 Unidades",
+      "quantidade_vendida": 2,
+      "faturamento": 42.66,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK1212",
+      "nome": "Rolamento De Agulha Hk 1212 - 12x18x12",
+      "quantidade_vendida": 4,
+      "faturamento": 42.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "LM 25 UU",
+      "nome": "Rolamento Linear Lm 25 Uu - 25x40x59",
+      "quantidade_vendida": 1,
+      "faturamento": 41.96,
+      "custo_unitario": null
+    },
+    {
+      "sku": "5204 2RS",
+      "nome": "Rolamento 5204 2rs - Medidas 20x47x20,6mm",
+      "quantidade_vendida": 1,
+      "faturamento": 41.57,
+      "custo_unitario": null
+    },
+    {
+      "sku": "MLKIT_MLB4600691046",
+      "nome": "Kit 10 Unidades Rolamento 6902-2rs 15x28x7 Roda De Bike",
+      "quantidade_vendida": 1,
+      "faturamento": 39.47,
+      "custo_unitario": null
+    },
+    {
+      "sku": "62305 2RS",
+      "nome": "Rolamento 62305 2rs - Medidas 25x62x24 Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 38.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UC 205-16",
+      "nome": "Kit C/ 2 Rolamentos Para Mancal Uc205-16 Para Eixo 25,4mm",
+      "quantidade_vendida": 1,
+      "faturamento": 37.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Hf 2016 - Rolamento Catraca De Agulha 20x26x16",
+      "nome": "Hf 2016 - Rolamento Catraca De Agulha 20x26x16",
+      "quantidade_vendida": 1,
+      "faturamento": 37.29,
+      "custo_unitario": null
+    },
+    {
+      "sku": "32210",
+      "nome": "Rolamento Cônico 32210 Medidas 50x90x24,75",
+      "quantidade_vendida": 1,
+      "faturamento": 36.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "UCT 205",
+      "nome": "Mancal Tensor Com Rolamento Uc205 Eixo 25mm Ferro Fundido",
+      "quantidade_vendida": 1,
+      "faturamento": 36.03,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 2 Rolamento 697z - 697zz 7x17x5mm Aço Carbono 3d Cnc",
+      "nome": "Kit 2 Rolamento 697z - 697zz 7x17x5mm Aço Carbono 3d Cnc",
+      "quantidade_vendida": 2,
+      "faturamento": 35.74,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK2820",
+      "nome": "Rolamento De Agulha Hk 2820 - 28x35x20 Kit Com 2 Peças",
+      "quantidade_vendida": 1,
+      "faturamento": 35.0,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6203 2RS",
+      "nome": "Kit Com 10 Pçs Rolamento 6203 2rs 17x40x12 Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 34.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamentos 6202 Zz Gbr Para Motor E Máquina Industrial Blindado Abec 9 Rolamento 6202 Zz Cinza-escuro",
+      "nome": "Kit 10 Rolamentos 6202 Zz Gbr Para Motor E Máquina Industrial Blindado Abec 9 Rolamento 6202 Zz Cinza-escuro",
+      "quantidade_vendida": 1,
+      "faturamento": 34.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Nsk 6206 Zz Cinza",
+      "nome": "Nsk 6206 Zz Cinza",
+      "quantidade_vendida": 1,
+      "faturamento": 34.27,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Gbr 6200 2rs 10x30x9mm Preto",
+      "nome": "Gbr 6200 2rs 10x30x9mm Preto",
+      "quantidade_vendida": 1,
+      "faturamento": 33.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "698 ZZ",
+      "nome": "Kit C/2 Rolamento 698z - 698zz 8x19x6mm Aço Carbono 3d Cnc Azul-aço",
+      "quantidade_vendida": 2,
+      "faturamento": 33.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "32008",
+      "nome": "Rolamento Capa E Cone 32008 - Medidas 40x68x19",
+      "quantidade_vendida": 1,
+      "faturamento": 33.12,
+      "custo_unitario": null
+    },
+    {
+      "sku": "POS 6 A",
+      "nome": "Terminal Rotular Macho Pos 6 A Rosca Direita - M6x1",
+      "quantidade_vendida": 1,
+      "faturamento": 32.73,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E15MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 15mm",
+      "quantidade_vendida": 1,
+      "faturamento": 32.47,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6200 ZZ GBR",
+      "nome": "10 Peças Rolamento 6200 Zz Marca Gbr 10x30x9 Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 31.47,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK2020",
+      "nome": "Rolamento De Agulha Hk 2020 - 20x26x20",
+      "quantidade_vendida": 2,
+      "faturamento": 31.34,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit 10 Rolamento 6203 Zz Blindado Máquina Motor Esfera Abec Rolamento 6203 Zz Cinza-escuro",
+      "nome": "Kit 10 Rolamento 6203 Zz Blindado Máquina Motor Esfera Abec Rolamento 6203 Zz Cinza-escuro",
+      "quantidade_vendida": 1,
+      "faturamento": 31.17,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6305 ZZ",
+      "nome": "Rolamento De Bolas Nsk Skf Snr 6305 Zz 6.2 Cm 2.5 Cm",
+      "quantidade_vendida": 1,
+      "faturamento": 30.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "MLKIT_MLB4391748916",
+      "nome": "Kit 10 Peças Rolamento Rígido De Esferas 6000 Zz C3 10x26x",
+      "quantidade_vendida": 1,
+      "faturamento": 29.99,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento Axial De Esferas 51208 - 40x68x19mm",
+      "nome": "Rolamento Axial De Esferas 51208 - 40x68x19mm",
+      "quantidade_vendida": 1,
+      "faturamento": 29.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E10MM - 10",
+      "nome": "Anel Elástico Para Eixo Kit Com 10 Peças 10mm",
+      "quantidade_vendida": 1,
+      "faturamento": 29.77,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 6201 2rs Blindagem Gbr  Pack De 10 Unidades Rolamento 6201 2rs Cinza-escuro",
+      "nome": "Rolamento 6201 2rs Blindagem Gbr  Pack De 10 Unidades Rolamento 6201 2rs Cinza-escuro",
+      "quantidade_vendida": 1,
+      "faturamento": 28.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 6201 2rs Rígido Esfera Motor Máquina Kit 10 Peças Prateado",
+      "nome": "Rolamento 6201 2rs Rígido Esfera Motor Máquina Kit 10 Peças Prateado",
+      "quantidade_vendida": 1,
+      "faturamento": 28.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "E-25",
+      "nome": "Anel Elástico Para Eixo 25 Mm Kit Com 10 Peças",
+      "quantidade_vendida": 1,
+      "faturamento": 28.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6002 Z C3",
+      "nome": "Rolamento 6002 Z C3 Nsk Original 15x32x9",
+      "quantidade_vendida": 1,
+      "faturamento": 27.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Zip N0",
+      "nome": "100 Sacos - Saquinho Ziplock Hermético N0 4x4 Abre/fecha",
+      "quantidade_vendida": 2,
+      "faturamento": 27.94,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Kit Com 2 Unidades Hk 2516 - Rolamento De Agulha - 25x32x16",
+      "nome": "Kit Com 2 Unidades Hk 2516 - Rolamento De Agulha - 25x32x16",
+      "quantidade_vendida": 1,
+      "faturamento": 27.87,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6008 zz",
+      "nome": "Kit 2 Peças Rolamento 6008 Zz Medidas 40x68x15mm",
+      "quantidade_vendida": 1,
+      "faturamento": 26.57,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Hk 1214 - Rolamento De Agulha Eixo Piloto 12x18x14",
+      "nome": "Hk 1214 - Rolamento De Agulha Eixo Piloto 12x18x14",
+      "quantidade_vendida": 2,
+      "faturamento": 26.04,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Rolamento 605 2rs Medidas 5x14x5mm",
+      "nome": "Rolamento 605 2rs Medidas 5x14x5mm",
+      "quantidade_vendida": 2,
+      "faturamento": 25.54,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6200 2rs c3",
+      "nome": "Rolamento Nsk 6200 Ddu C3 - Primeira Linha 10x30x9",
+      "quantidade_vendida": 1,
+      "faturamento": 25.11,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK 2016",
+      "nome": "Kit 2 Unidades Hk 2016 - Rolamento De Agulha - 20x26x16",
+      "quantidade_vendida": 1,
+      "faturamento": 23.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK1512",
+      "nome": "Rolamento Eixo Secundario Honda Titan Cg 125 -hk 1512",
+      "quantidade_vendida": 2,
+      "faturamento": 22.16,
+      "custo_unitario": null
+    },
+    {
+      "sku": "NK 16/16",
+      "nome": "Rolamentos De Rolos De Agulhas Nk 16/16 - 16x24x16",
+      "quantidade_vendida": 1,
+      "faturamento": 21.53,
+      "custo_unitario": null
+    },
+    {
+      "sku": "Hk 3512 - Rolamento De Agulha 35x42x12",
+      "nome": "Hk 3512 - Rolamento De Agulha 35x42x12",
+      "quantidade_vendida": 1,
+      "faturamento": 19.97,
+      "custo_unitario": null
+    },
+    {
+      "sku": "6002 ZZ",
+      "nome": "Rolamento Rígido De Esferas 6002 Zz 15x32x9",
+      "quantidade_vendida": 2,
+      "faturamento": 19.68,
+      "custo_unitario": null
+    },
+    {
+      "sku": "12mm",
+      "nome": "10 Uni Anilha Anel Elástico Retenção Trava Eixo Clip Arruela",
+      "quantidade_vendida": 1,
+      "faturamento": 16.25,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK0810",
+      "nome": "Rolamento De Agulha Hk 0810 - 8x12x10 Kit Com 2 Peças",
+      "quantidade_vendida": 1,
+      "faturamento": 12.39,
+      "custo_unitario": null
+    },
+    {
+      "sku": "HK1210",
+      "nome": "Rolamento De Agulha Hk 1210 - 12x16x10",
+      "quantidade_vendida": 1,
+      "faturamento": 10.27,
+      "custo_unitario": null
+    }
+  ]
+}
